@@ -1,0 +1,9 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Motor1Alarm
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Temperature
+  Type: BaseDataVariableType
+  DataType: Int32
